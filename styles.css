@@ -1,0 +1,26 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    background-color: #dbc8bb;
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.duendeimg{
+    width: 100px;
+}
+.option{
+    background: linear-gradient(#dedee3, #f0ece9);
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 2rem;
+    letter-spacing: 2px;
+}
+.option:hover{
+box-shadow: 1px 1px 5px #333;
+}
